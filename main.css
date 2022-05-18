@@ -1,0 +1,17 @@
+.cryptoPrice {
+    padding-left: 15px;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+}
+
+.tableDiv {
+    width: 245px;
+    background-image: url('bg2.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+table {
+    padding: 10px;
+}
